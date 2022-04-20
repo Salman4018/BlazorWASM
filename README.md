@@ -1,1 +1,1 @@
-BlazorWASM
+BlazorWASM Initial Project template
